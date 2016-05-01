@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1DD754F01CD5C4E900D201A9 /* Homework_6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework_6.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DD754F01CD5C4E900D201A9 /* Homework_6-1_ThreeImageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Homework_6-1_ThreeImageView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD754F31CD5C4E900D201A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD754F51CD5C4E900D201A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1DD754F81CD5C4E900D201A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		1DD754F11CD5C4E900D201A9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1DD754F01CD5C4E900D201A9 /* Homework_6.app */,
+				1DD754F01CD5C4E900D201A9 /* Homework_6-1_ThreeImageView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1DD754EF1CD5C4E900D201A9 /* Homework_6 */ = {
+		1DD754EF1CD5C4E900D201A9 /* Homework_6-1_ThreeImageView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DD755021CD5C4E900D201A9 /* Build configuration list for PBXNativeTarget "Homework_6" */;
+			buildConfigurationList = 1DD755021CD5C4E900D201A9 /* Build configuration list for PBXNativeTarget "Homework_6-1_ThreeImageView" */;
 			buildPhases = (
 				1DD754EC1CD5C4E900D201A9 /* Sources */,
 				1DD754ED1CD5C4E900D201A9 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Homework_6;
+			name = "Homework_6-1_ThreeImageView";
 			productName = Homework_6;
-			productReference = 1DD754F01CD5C4E900D201A9 /* Homework_6.app */;
+			productReference = 1DD754F01CD5C4E900D201A9 /* Homework_6-1_ThreeImageView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1DD754EB1CD5C4E900D201A9 /* Build configuration list for PBXProject "Homework_6" */;
+			buildConfigurationList = 1DD754EB1CD5C4E900D201A9 /* Build configuration list for PBXProject "Homework_6-1_ThreeImageView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1DD754EF1CD5C4E900D201A9 /* Homework_6 */,
+				1DD754EF1CD5C4E900D201A9 /* Homework_6-1_ThreeImageView */,
 			);
 		};
 /* End PBXProject section */
@@ -253,7 +253,7 @@
 				INFOPLIST_FILE = Homework_6/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.David.TangPoems.Homework-6";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Homework_6-1_ThreeImageView";
 			};
 			name = Debug;
 		};
@@ -264,14 +264,14 @@
 				INFOPLIST_FILE = Homework_6/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.David.TangPoems.Homework-6";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Homework_6-1_ThreeImageView";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1DD754EB1CD5C4E900D201A9 /* Build configuration list for PBXProject "Homework_6" */ = {
+		1DD754EB1CD5C4E900D201A9 /* Build configuration list for PBXProject "Homework_6-1_ThreeImageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DD755001CD5C4E900D201A9 /* Debug */,
@@ -280,7 +280,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DD755021CD5C4E900D201A9 /* Build configuration list for PBXNativeTarget "Homework_6" */ = {
+		1DD755021CD5C4E900D201A9 /* Build configuration list for PBXNativeTarget "Homework_6-1_ThreeImageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DD755031CD5C4E900D201A9 /* Debug */,
